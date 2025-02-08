@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://iyashvasani.tech](https://iyashvasani.tech)
+- 👨‍💻 All of my projects are available at [https://iyashvasani.github.io](https://iyashvasani.github.io/)
 
 
 - 📫 How to reach me **yashvasani1@gmail.com**
